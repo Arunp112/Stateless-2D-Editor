@@ -270,6 +270,7 @@ export function CanvasProvider({ sceneId, viewOnly = false, templateKey, childre
     const url = location.href;
     try {
       await navigator.clipboard.writeText(url);
+      alert("Link copied")
       console.log("Link copied!");
     } catch {
       console.log("Copy this link manually:", url);
