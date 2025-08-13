@@ -1,0 +1,9 @@
+{
+  "version": "5.3.0",
+  "objects": [
+    { "type": "rect", "left": 60, "top": 60, "width": 320, "height": 460, "fill": "#111827", "rx": 12, "ry": 12 },
+    { "type": "i-text", "left": 90, "top": 90, "text": "Poster A", "fontSize": 40, "fill": "#ffffff" },
+    { "type": "circle", "left": 120, "top": 180, "radius": 60, "fill": "#60a5fa" },
+    { "type": "rect", "left": 210, "top": 180, "width": 180, "height": 120, "fill": "#f59e0b" }
+  ]
+}

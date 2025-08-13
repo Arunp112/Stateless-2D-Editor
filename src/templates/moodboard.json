@@ -1,0 +1,9 @@
+{
+  "version": "5.3.0",
+  "objects": [
+    { "type": "rect", "left": 40, "top": 40, "width": 220, "height": 160, "fill": "#fde68a" },
+    { "type": "rect", "left": 280, "top": 40, "width": 220, "height": 160, "fill": "#bbf7d0" },
+    { "type": "rect", "left": 40, "top": 220, "width": 460, "height": 80, "fill": "#e5e7eb" },
+    { "type": "i-text", "left": 60, "top": 240, "text": "Moodboard", "fontSize": 28, "fill": "#111827" }
+  ]
+}
